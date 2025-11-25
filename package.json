@@ -1,8 +1,10 @@
 {
   "name": "express",
   "dependencies": {
+    "db": "^6.0.3",
     "ejs": "^3.1.10",
-    "express": "5.1.0"
+    "express": "5.1.0",
+    "mongodb": "^6.21.0"
   },
   "devDependencies": {
     "@types/express": "5.0.0",
